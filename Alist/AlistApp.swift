@@ -1,9 +1,4 @@
-//
-//  AlistApp.swift
-//  Alist
-//
-//  Created by Aaliyah Demitro on 12/8/21.
-//
+
 
 import SwiftUI
 
